@@ -3,8 +3,7 @@
 
 - Sou estudante de analise e desenvolvimento de sistemas - atualmente 2° semestre
 - Focado no momento em BACKEND
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: 
+-  Pronouns: ele/dele 
 
 ##
 
